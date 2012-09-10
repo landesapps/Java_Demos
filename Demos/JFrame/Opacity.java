@@ -1,12 +1,10 @@
-package Demos.JFrame.Opacity;
-
 import java.awt.*;
 import javax.swing.*;
 
 //Needed to determine if the graphics card can handle the translucency
 import static java.awt.GraphicsDevice.WindowTranslucency.*;
 
-public class Example extends JFrame {
+public class Opacity extends JFrame {
     public Example() {
         super();
 

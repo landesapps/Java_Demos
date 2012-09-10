@@ -1,6 +1,3 @@
-//The location of the file
-package Demos.Basic;
-
 //Include the Scanner class
 import java.util.Scanner;
 

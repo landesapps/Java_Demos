@@ -1,6 +1,3 @@
-//The location of the file
-package Demos.Basic;
-
 //Include the FileReader class
 import java.io.FileReader;
 //Include the BufferedReader class

@@ -1,6 +1,3 @@
-//The location of the file
-package Demos.Basic;
-
 //Every java file must have a class with the same name as the file
 public class HelloWorld {
 
