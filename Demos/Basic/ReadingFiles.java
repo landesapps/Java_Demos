@@ -22,7 +22,7 @@ public class ReadingFiles {
         //Try to do this code
         try {
             //Assign the file reader to a file
-            fReader = new FileReader("Demos/Basic/HelloWorld.java");
+            fReader = new FileReader("ReadingFiles.java");
             
             //Assign the buffered reader to the file reader's file
             bReader = new BufferedReader(fReader);
